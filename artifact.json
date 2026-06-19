@@ -1,0 +1,14 @@
+{
+  "artifact_name": "Bronze Statue of Warrior",
+  "material": "bronze",
+  "age": 1200,
+  "latitude": 43.238,
+  "longitude": 76.945,
+  "height_cm": 140.0,
+  "weight_kg": 60.0,
+  "existing_cracks": 4,
+  "largest_crack_mm": 2.3,
+  "corrosion_percent": 12.0,
+  "surface_loss_percent": 3.0,
+  "storage_type": "outdoor"
+}
